@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobiquity Challenge</string>
+    <string name="done">Done</string>
+    <string name="dropbox">dropbox</string>
+    <string name="drop_box">DropBox</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="download">Download</string>
+    <string name="title_activity_list_files">ListFiles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
